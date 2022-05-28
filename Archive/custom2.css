@@ -1,0 +1,446 @@
+@import url("https://fonts.googleapis.com/background-position: center bottom;css2?family=Alex+Brush&family=Caveat&family=Montserrat:wght@200;400&family=Noto+Sans:wght@300&family=Raleway&family=Roboto+Slab&family=Square+Peg&family=Vollkorn:wght@400;500;600&display=swap");
+
+html {
+  scroll-behavior: smooth;
+}
+
+.img1 {
+  background-size: cover;
+  min-height: 100vh;
+  position: relative;
+  color: white;
+  background-position: center bottom;
+}
+
+.button1 {
+  position: fixed;
+  top: 100px;
+  left: 10px;
+}
+
+.txt1 {
+  padding: 100px 0px;
+}
+
+.text1 {
+  text-align: center;
+  padding: 40px 0px 10px 0px;
+  font-size: 20px;
+  font-family: "Raleway", sans-serif;
+  margin: 0px 0px -10px 0px;
+}
+
+.text2 {
+  text-align: center;
+  font-family: "Square Peg", cursive;
+  font-size: 80px;
+  margin: 0px 0px 10px 0px;
+}
+
+.text3 {
+  text-align: center;
+  font-family: "Caveat", cursive;
+  font-size: 35px;
+  padding: 10cm 0px 0px 0px;
+}
+
+/*Page 2*/
+
+.img2 {
+  background-size: cover;
+  min-height: 100vh;
+  position: relative;
+  color: white;
+  background-position: center bottom;
+}
+.img-1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1px 0px 0cm 0px;
+  width: 25%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.textp {
+  font-family: "Noto Sans", sans-serif;
+  color: black;
+  text-align: center;
+  padding: 40px 0px;
+  font-size: 20px;
+}
+.img-2 {
+  margin-left: 160px;
+  padding: 0px 0cm 0px 200px;
+  width: 26%;
+  float: left;
+  position: relative;
+}
+.img-3 {
+  margin-right: 160px;
+  padding: 0px 200px 0px 0cm;
+  width: 26%;
+  float: right;
+  position: relative;
+}
+.texty {
+  font-family: "Vollkorn", serif;
+  text-align: center;
+  padding: 0px 0px 0px 9cm;
+  width: 15cm;
+  float: left;
+  color: black;
+}
+
+.texts {
+  font-family: "Vollkorn", serif;
+  text-align: center;
+  padding: 0px 9cm 0px 0px;
+  width: 15cm;
+  float: right;
+  color: black;
+}
+/* texty k yayu*/
+.texty .namay1 {
+  font-weight: 400;
+  font-size: 130%;
+  padding: 10px 0px 0px 0px;
+}
+.texty .namay2 {
+  font-weight: 600;
+  font-size: 130%;
+  text-align: center;
+  padding: 0px 0px 0px 0px;
+}
+.texty .namay3 {
+  font-weight: 400;
+  font-size: 130%;
+  padding: 0px 0px 0px 0px;
+}
+.texty .namay4 {
+  font-weight: 400;
+  font-size: 130%;
+  display: inline-block;
+  padding: 0px 0px 0px 0px;
+}
+.texty .namay5 {
+  font-weight: 400;
+  font-size: 140%;
+  padding: 0px 10px 0px 0px;
+} /* texty k shofy*/
+.texts .namas1 {
+  font-weight: 400;
+  font-size: 130%;
+  padding: 10px 0px 0px 0px;
+}
+.texts .namas2 {
+  font-weight: 600;
+  font-size: 130%;
+  padding: 0px 0px 0px 0px;
+}
+.texts .namas3 {
+  font-weight: 400;
+  font-size: 130%;
+  padding: 0px 0px 0px 0px;
+}
+.texts .namas4 {
+  font-size: 130%;
+  display: inline-block;
+  padding: 0px 0px 0px 0px;
+}
+.texts .namas5 {
+  font-weight: 400;
+  font-size: 140%;
+  padding: 0px 0px 10px 0px;
+}
+
+/*PAge3*/
+.img3 {
+  background-size: cover;
+  min-height: 100vh;
+  position: relative;
+  color: white;
+  background-position: center bottom;
+}
+
+.judul1 .tglj {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Vollkorn", serif;
+  font-weight: 500;
+  padding: 1cm;
+  font-size: 60px;
+  white-space: nowrap;
+}
+
+/*tanggal 1 class*/
+.tanggal1 {
+  font-family: "Vollkorn", serif;
+  font-weight: 400;
+  font-size: 49px;
+  text-align: center;
+  padding-top: 80px;
+  width: 15cm;
+  float: left;
+  white-space: nowrap;
+}
+
+.tanggal1 .tgl3 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 200;
+  font-size: 30px;
+  width: 15cm;
+  float: left;
+  white-space: nowrap;
+}
+
+/*tanggal 2 class*/
+.tanggal2 {
+  font-family: "Vollkorn", serif;
+  font-weight: 400;
+  font-size: 49px;
+  padding-top: 83px;
+  padding-right: 30px;
+  text-align: center;
+  width: 15cm;
+  float: right;
+  white-space: nowrap;
+}
+
+.tanggal2 .tgl5 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 200;
+  font-size: 30px;
+  width: 15cm;
+  float: left;
+  white-space: nowrap;
+}
+
+/*Alamat*/
+.alamat1 {
+  text-align: center;
+}
+
+.tempat1 {
+  font-size: 30px;
+  text-align: center;
+  white-space: nowrap;
+  padding-top: 10cm;
+}
+
+.material-symbols-outlined {
+  vertical-align: middle;
+  line-height: 0 !important;
+  position: relative;
+  bottom: 2px;
+}
+
+.btn {
+  font-family: "Montserrat", sans-serif;
+}
+
+/*page3*/
+.img4 {
+  background-size: cover;
+  min-height: 100vh;
+  position: relative;
+  color: white;
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+}
+
+.akd {
+  font-family: "Vollkorn", serif;
+  font-weight: 500;
+  color: black;
+  font-size: 50px;
+  padding: 6cm 0px 0px 0px;
+}
+
+.bodyakd {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 19px;
+  color: black;
+}
+
+.linkig {
+  display: flex;
+  justify-content: space-between;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 200;
+  font-size: 25px;
+}
+
+.instagramy {
+  margin-left: 10cm;
+  text-decoration: none;
+}
+
+.instagrams {
+  margin-right: 10cm;
+  text-decoration: none;
+}
+
+/*page 5*/
+.img5 {
+  background-size: cover;
+  min-height: 100vh;
+  position: relative;
+  color: white;
+  width: 100%;
+  height: 100%;
+  background-repeat: repeat;
+}
+
+.our {
+  font-family: "Alex Brush", cursive;
+  font-size: 50px;
+  color: black;
+  padding-top: 40px;
+}
+
+.our1 {
+  width: auto;
+  max-width: 50%;
+  padding: 5px 5px;
+  float: left;
+}
+
+.our2 {
+  width: auto;
+  max-width: 50%;
+  padding: 5px 5px;
+  float: right;
+}
+
+.ourr3 .our3 {
+  width: auto;
+  max-width: 65%;
+  display: block;
+  margin: 0 auto;
+  text-align: right;
+  padding: 5px 5px;
+}
+
+.img6 {
+  background-size: cover;
+  min-height: 200vh;
+  position: relative;
+  background-repeat: repeat;
+}
+
+.our4 {
+  width: auto;
+  max-width: 50%;
+  padding: 5px 5px;
+  float: left;
+}
+
+.our5 {
+  width: auto;
+  max-width: 50%;
+  padding: 5px 5px;
+  float: right;
+}
+
+.our6 {
+  width: auto;
+  max-width: 100%;
+  padding: 5px 5px;
+}
+
+.our7t {
+  width: auto;
+  max-width: 100%;
+  padding: 5px 5px;
+  text-align: center;
+}
+
+.our8 {
+  width: auto;
+  max-width: 50%;
+  padding: 5px 5px;
+  float: left;
+}
+
+.our9 {
+  width: auto;
+  max-width: 50%;
+  padding: 5px 5px;
+  float: right;
+}
+
+.our10 {
+  width: auto;
+  max-width: 50%;
+  max-height: 100%;
+  padding: 5px 5px;
+  float: right;
+}
+
+.our11 {
+  width: auto;
+  max-width: 50%;
+  padding: 5px 5px;
+  float: left;
+}
+
+.our12 {
+  width: auto;
+  max-width: 50%;
+  max-width: 50%;
+  padding: 5px 5px;
+  float: left;
+}
+
+.our13 {
+  width: auto;
+  max-width: 50%;
+  padding: 5px 5px;
+  float: right;
+}
+
+.our14 {
+  width: auto;
+  max-width: 50%;
+  max-height: 10%;
+  padding: 5px 5px;
+  float: left;
+}
+
+.our15 {
+  width: auto;
+  max-width: 50%;
+  padding: 5px 5px;
+  float: right;
+}
+
+.our16 {
+  width: auto;
+  max-width: 50%;
+  max-height: 10%;
+  padding: 5px 5px;
+  float: left;
+}
+
+.our18 {
+  width: auto;
+  max-width: 50%;
+  max-height: 10%;
+  padding: 5px 5px;
+  float: left;
+  position: bottom;
+}
+
+.our17 {
+  width: 50%;
+  height: 350px;
+  position: relative;
+  max-width: 50%;
+  object-fit: cover;
+  padding: 5px 5px;
+  float: left;
+}
